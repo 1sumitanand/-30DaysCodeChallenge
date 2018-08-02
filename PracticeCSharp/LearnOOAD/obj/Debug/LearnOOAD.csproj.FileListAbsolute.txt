@@ -1,0 +1,13 @@
+\\ZINBLRVMSHP008\ProjectData\Sumit\Refactoring Methods\PracticeCSharp\LearnOOAD\bin\Debug\LearnOOAD.exe.config
+\\ZINBLRVMSHP008\ProjectData\Sumit\Refactoring Methods\PracticeCSharp\LearnOOAD\bin\Debug\LearnOOAD.exe
+\\ZINBLRVMSHP008\ProjectData\Sumit\Refactoring Methods\PracticeCSharp\LearnOOAD\bin\Debug\LearnOOAD.pdb
+\\ZINBLRVMSHP008\ProjectData\Sumit\Refactoring Methods\PracticeCSharp\LearnOOAD\obj\Debug\LearnOOAD.csprojResolveAssemblyReference.cache
+\\ZINBLRVMSHP008\ProjectData\Sumit\Refactoring Methods\PracticeCSharp\LearnOOAD\obj\Debug\View\MainWindow.g.cs
+\\ZINBLRVMSHP008\ProjectData\Sumit\Refactoring Methods\PracticeCSharp\LearnOOAD\obj\Debug\LearnOOAD_MarkupCompile.cache
+\\ZINBLRVMSHP008\ProjectData\Sumit\Refactoring Methods\PracticeCSharp\LearnOOAD\obj\Debug\LearnOOAD_MarkupCompile.lref
+\\ZINBLRVMSHP008\ProjectData\Sumit\Refactoring Methods\PracticeCSharp\LearnOOAD\obj\Debug\View\MainWindow.baml
+\\ZINBLRVMSHP008\ProjectData\Sumit\Refactoring Methods\PracticeCSharp\LearnOOAD\obj\Debug\LearnOOAD.g.resources
+\\ZINBLRVMSHP008\ProjectData\Sumit\Refactoring Methods\PracticeCSharp\LearnOOAD\obj\Debug\LearnOOAD.Properties.Resources.resources
+\\ZINBLRVMSHP008\ProjectData\Sumit\Refactoring Methods\PracticeCSharp\LearnOOAD\obj\Debug\LearnOOAD.csproj.GenerateResource.Cache
+\\ZINBLRVMSHP008\ProjectData\Sumit\Refactoring Methods\PracticeCSharp\LearnOOAD\obj\Debug\LearnOOAD.exe
+\\ZINBLRVMSHP008\ProjectData\Sumit\Refactoring Methods\PracticeCSharp\LearnOOAD\obj\Debug\LearnOOAD.pdb

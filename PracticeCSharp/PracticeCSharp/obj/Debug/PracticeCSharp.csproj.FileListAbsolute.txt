@@ -1,0 +1,6 @@
+E:\Demo-Code\C#\PracticeCSharp\PracticeCSharp\bin\Debug\PracticeCSharp.exe.config
+E:\Demo-Code\C#\PracticeCSharp\PracticeCSharp\bin\Debug\PracticeCSharp.exe
+E:\Demo-Code\C#\PracticeCSharp\PracticeCSharp\bin\Debug\PracticeCSharp.pdb
+E:\Demo-Code\C#\PracticeCSharp\PracticeCSharp\obj\Debug\PracticeCSharp.csprojResolveAssemblyReference.cache
+E:\Demo-Code\C#\PracticeCSharp\PracticeCSharp\obj\Debug\PracticeCSharp.exe
+E:\Demo-Code\C#\PracticeCSharp\PracticeCSharp\obj\Debug\PracticeCSharp.pdb
