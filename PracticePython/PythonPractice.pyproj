@@ -4,16 +4,18 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>ab32c997-b9c8-44fc-80cf-e506d5e2afa3</ProjectGuid>
-    <ProjectHome>.</ProjectHome>
+    <ProjectHome>
+    </ProjectHome>
     <StartupFile>RuntimePoly.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>KClusteringAlgo</Name>
+    <Name>PythonPractice</Name>
     <RootNamespace>KClusteringAlgo</RootNamespace>
     <InterpreterId>{4fe3a0a0-9701-4744-a70f-f3211987b0ac}</InterpreterId>
     <InterpreterVersion>3.5</InterpreterVersion>
+    <IsWindowsApplication>False</IsWindowsApplication>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -24,14 +26,17 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="kmeansdemo.py" />
+    <Compile Include="K-Cluster Algo\kmeansdemo.py" />
     <Compile Include="RuntimePoly.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="VisualizeKMean.py" />
+    <Compile Include="K-Cluster Algo\VisualizeKMean.py" />
   </ItemGroup>
   <ItemGroup>
     <InterpreterReference Include="{4fe3a0a0-9701-4744-a70f-f3211987b0ac}\3.5" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="K-Cluster Algo\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
