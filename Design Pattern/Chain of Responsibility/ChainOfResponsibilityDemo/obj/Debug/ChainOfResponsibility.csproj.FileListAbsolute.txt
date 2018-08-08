@@ -8,3 +8,5 @@ E:\Demo-Code\Gitub\Python\Design Pattern\ChainOfResponsibilityDemo\obj\Debug\Cha
 E:\Demo-Code\Gitub\Python\Design Pattern\ChainOfResponsibilityDemo\bin\Debug\ChainOfResponsibility.exe
 E:\Demo-Code\Gitub\Python\Design Pattern\ChainOfResponsibilityDemo\bin\Debug\ChainOfResponsibility.pdb
 E:\Demo-Code\Gitub\Python\Design Pattern\ChainOfResponsibilityDemo\obj\Debug\ChainOfResponsibility.csprojResolveAssemblyReference.cache
+E:\Demo-Code\Gitub\Python\Design Pattern\Chain of Responsibility\ChainOfResponsibilityDemo\obj\Debug\ChainOfResponsibility.exe
+E:\Demo-Code\Gitub\Python\Design Pattern\Chain of Responsibility\ChainOfResponsibilityDemo\obj\Debug\ChainOfResponsibility.pdb
