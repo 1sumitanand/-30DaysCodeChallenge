@@ -8,5 +8,9 @@ namespace FactoryPattern.ConcreteProduct
 {
     class Skills : Page
     {
+        public override void PageType()
+        {
+            Console.WriteLine("This is Skills Page");
+        }
     }
 }

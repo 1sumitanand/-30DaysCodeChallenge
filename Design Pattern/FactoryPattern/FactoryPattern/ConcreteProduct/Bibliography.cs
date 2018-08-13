@@ -8,5 +8,9 @@ namespace FactoryPattern.ConcreteProduct
 {
     class Bibliography : Page
     {
+        public override void PageType()
+        {
+            Console.WriteLine("This is Bibliography Page");
+        }
     }
 }

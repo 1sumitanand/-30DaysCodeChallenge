@@ -8,5 +8,10 @@ namespace FactoryPattern.ConcreteProduct
 {
     class Summary : Page
     {
+        public override void PageType()
+        {
+            Console.WriteLine("This is Summary Page");
+        }
+
     }
 }

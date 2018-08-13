@@ -1,63 +1,63 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
   <Class Name="FactoryPattern.ConcreteCreator.Report">
-    <Position X="1.5" Y="7.75" Width="1.5" />
+    <Position X="1" Y="7.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>ConcreteCreator\Report.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="FactoryPattern.ConcreteCreator.Resume">
-    <Position X="4.5" Y="7.75" Width="1.5" />
+    <Position X="4" Y="7.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>ConcreteCreator\Resume.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="FactoryPattern.ConcreteProduct.Bibliography" Collapsed="true">
-    <Position X="5.75" Y="2.75" Width="1.5" />
+    <Position X="9.25" Y="6.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>ConcreteProduct\Bibliography.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="FactoryPattern.ConcreteProduct.Experience" Collapsed="true">
-    <Position X="1.25" Y="2.75" Width="1.5" />
+    <Position X="5" Y="6.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>ConcreteProduct\Experience.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="FactoryPattern.ConcreteProduct.Skills" Collapsed="true">
-    <Position X="3.5" Y="2.75" Width="1.5" />
+    <Position X="7.25" Y="6.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>ConcreteProduct\Skills.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="FactoryPattern.ConcreteProduct.Summary" Collapsed="true">
-    <Position X="8" Y="2.75" Width="1.5" />
+    <Position X="11.75" Y="6.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>ConcreteProduct\Summary.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="FactoryPattern.Document">
-    <Position X="3" Y="4.5" Width="1.5" />
+    <Position X="2.5" Y="4.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAIAAAAgAAAAAAAAAAAAIAAAAAAAAAAAAAA=</HashCode>
       <FileName>Document.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="FactoryPattern.Page" Collapsed="true">
-    <Position X="4.5" Y="1.5" Width="1.5" />
+    <Position X="8.5" Y="4.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Page.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="FactoryPattern.Program">
-    <Position X="7.5" Y="4.25" Width="1.5" />
+    <Position X="5.75" Y="3.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
       <FileName>Program.cs</FileName>

@@ -6,16 +6,18 @@ using System.Threading.Tasks;
 
 namespace FactoryPattern
 {
+    //Concrete Creator Base class
     abstract class Document
     {
-        private List<Page> _pages = new List<Page>();
-
+   
         // Constructor calls abstract Factory method
         public Document()
         {
             this.CreatePages();
         }
 
+        //List of Concrete Product classes
+        private List<Page> _pages = new List<Page>();
         public List<Page> Pages
         {
             get { return _pages; }

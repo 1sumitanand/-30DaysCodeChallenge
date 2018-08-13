@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace FactoryPattern
 {
+    //Concrete Product Base class
     abstract class Page
     {
+        public abstract void PageType();
+
     }
 }

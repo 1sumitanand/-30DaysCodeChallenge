@@ -8,5 +8,9 @@ namespace FactoryPattern.ConcreteProduct
 {
     class Experience : Page
     {
+        public override void PageType()
+        {
+            Console.WriteLine("This is Experience Page");
+        }
     }
 }
